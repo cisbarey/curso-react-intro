@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cisbarey/curso-react-intro/static/css/main.bbce1e86.css",
+    "main.js": "/cisbarey/curso-react-intro/static/js/main.7d77d575.js",
+    "index.html": "/cisbarey/curso-react-intro/index.html",
+    "static/media/delete.svg": "/cisbarey/curso-react-intro/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/cisbarey/curso-react-intro/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.bbce1e86.css.map": "/cisbarey/curso-react-intro/static/css/main.bbce1e86.css.map",
+    "main.7d77d575.js.map": "/cisbarey/curso-react-intro/static/js/main.7d77d575.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbce1e86.css",
+    "static/js/main.7d77d575.js"
+  ]
+}
